@@ -1,8 +1,8 @@
 class SpectuneM6 < Formula
   desc "Qwen and DFlash2 with packed-Q4 kernels for Apple M6"
   homepage "https://github.com/Gage-Weaver/spectune-m6"
-  url "https://github.com/Gage-Weaver/spectune-m6/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "4c98aa6bf260908a5f63d7042a78bd409b8adf9d042bb1caa7e03d3cfffb6f45"
+  url "https://github.com/Gage-Weaver/spectune-m6/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "62ef4c30340a64021c06808e0ac7dfd79f2a55c9341e36ffca51914f24071af4"
   license "Apache-2.0"
 
   depends_on :macos
